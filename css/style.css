@@ -1,0 +1,102 @@
+.container{
+    width: 2000px;
+    height: auto;
+    background-color: white;
+    margin:0 auto;
+    padding-top: 230px;
+   
+}
+.head-content{
+   
+    display: flex;            
+    justify-content: center;            
+    
+}
+li{
+    list-style-type: none;
+}
+.clear {
+    clear: both;
+}
+.text{
+   
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
+}
+.search{
+
+width: 350px;
+justify-content: center;
+margin: 1px auto;
+border-radius: 6px;
+}
+.buton {
+    display: flex;            
+    justify-content: center; 
+    padding: 5px;
+    margin-right: 5px;
+    
+}
+.buton2 {
+    margin-top: 6px;
+    margin-right:5px;
+    border-style: none;
+   
+   
+}
+    
+.mid-content {
+    padding: 5px;
+    background-color: rgb(226, 219, 219);
+}
+   
+.last-content{
+    width: 2000px;
+    
+    display: flex;
+  }
+
+.box1{
+    background-color: aqua;
+width: 700px;
+margin-bottom: 10px;
+
+
+
+}
+.box2{
+
+    background-color: rgb(125, 228, 228);
+    width: 600px;
+    margin-bottom: 10px;
+    height: 90px;
+    
+    
+}
+
+.box3 {
+    width: 700px;
+    background-color: rgb(132, 207, 207);
+    height: 90px;
+    text-align: center;
+}
+
+.row{
+    width: 200px;
+    padding: 7px;
+    margin:0 auto;
+    text-align: center;
+}
+.row2{
+    width: 140px;
+    padding: 15px;
+    margin:0 auto;
+    text-align: center;
+
+}
+.ortala
+{
+    margin-top:20px;
+    text-align: center;
+}
